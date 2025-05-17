@@ -1,6 +1,6 @@
 =# 4.Execution_of_NetworkCommands
-## NAME : GAUTHAM KRISHNA S
-## REGISTER NUMBER : 212223240036
+## NAME : Vinolia Alaina .R
+## REGISTER NUMBER : 212224240184
 
 ## AIM :Use of Network commands in Real Time environment
 ## Software : 
